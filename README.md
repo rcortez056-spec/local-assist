@@ -17,3 +17,6 @@ A lightweight, offline-first text utility built for the **AI Yako Hackathon (Off
 2. Install necessary dependencies and download the local model weights before testing.
 3. Toggle off all network interfaces and Wi-Fi to verify offline capability.
 4. Execute the local script or utility binary to run inference and view outputs.
+## Network Features
+* Live external model API calls and inference execution routed through high-throughput endpoints.
+* Multi-agent workflow synchronization and live webhook event triggering.
